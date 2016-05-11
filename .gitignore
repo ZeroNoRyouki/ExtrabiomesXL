@@ -109,6 +109,7 @@ local.properties
 ## File-based project format
 *.ipr
 *.iws
+*.iml
 
 ## Additional for IntelliJ
 out/
@@ -127,3 +128,6 @@ com_crashlytics_export_strings.xml
 .classpath
 .project
 run/
+
+### gradle build directory
+build
