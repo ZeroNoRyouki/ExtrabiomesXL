@@ -21,9 +21,9 @@ import net.minecraft.world.World;
 
 import com.google.common.base.Optional;
 
-import cpw.mods.fml.common.registry.LanguageRegistry;
-import cpw.mods.fml.relauncher.Side;
-import cpw.mods.fml.relauncher.SideOnly;
+import net.minecraftforge.fml.common.registry.LanguageRegistry;
+import net.minecraftforge.fml.relauncher.Side;
+import net.minecraftforge.fml.relauncher.SideOnly;
 import extrabiomes.Extrabiomes;
 import extrabiomes.helpers.ToolTipStringFormatter;
 
